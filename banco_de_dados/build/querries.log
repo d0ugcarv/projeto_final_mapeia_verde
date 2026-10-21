@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.7.28)  21 OCT 2026 04:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.7.28)  21 OCT 2026 04:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/douglas/UERJ/2026.1_uerj/sistemasB/trabalhos/projeto_final/banco_de_dados/querries.tex
-(/home/douglas/UERJ/2026.1_uerj/sistemasB/trabalhos/projeto_final/banco_de_dados/querries.tex
+**/home/douglas/UERJ/2026.1_uerj/sistemasB/trabalhos/projeto_final_mapeia_verde/banco_de_dados/querries.tex
+(/home/douglas/UERJ/2026.1_uerj/sistemasB/trabalhos/projeto_final_mapeia_verde/banco_de_dados/querries.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -189,20 +189,20 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 )) (build/querries.aux)
 \openout1 = `querries.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
-LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count277
@@ -226,46 +226,51 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 46.
+(Font)              <12> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 46.
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 54.
+(Font)              <6> on input line 47.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (./querries/modulo_3_consultas_basicas.sql
+)
+Overfull \hbox (10.39102pt too wide) in paragraph at lines 47--47
+ [][] 
+ []
+
+(./querries/modulo_3_consultas_basicas.sql
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 2.
 )
 <querries_images/modulo_3_consultas_basicas.png, id=1, 1244.65pt x 508.90125pt>
 File: querries_images/modulo_3_consultas_basicas.png Graphic file (type png)
 <use querries_images/modulo_3_consultas_basicas.png>
-Package pdftex.def Info: querries_images/modulo_3_consultas_basicas.png  used on input line 62.
+Package pdftex.def Info: querries_images/modulo_3_consultas_basicas.png  used on input line 63.
 (pdftex.def)             Requested size: 345.00513pt x 141.06258pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./querries_images/modulo_3_consultas_basicas.png>] (./querries/modulo_4_filtro.sql)
-<querries_images/modulo_4_filtro.png, id=15, 1244.65pt x 171.64125pt>
+<querries_images/modulo_4_filtro.png, id=16, 1244.65pt x 171.64125pt>
 File: querries_images/modulo_4_filtro.png Graphic file (type png)
 <use querries_images/modulo_4_filtro.png>
-Package pdftex.def Info: querries_images/modulo_4_filtro.png  used on input line 83.
+Package pdftex.def Info: querries_images/modulo_4_filtro.png  used on input line 84.
 (pdftex.def)             Requested size: 345.00513pt x 47.5773pt.
  [2
 
  <./querries_images/modulo_4_filtro.png>] (./querries/modulo_5_operacoes_basicas_e_agregacao.sql)
-<querries_images/modulo_5_operacoes_basicas_e_agregacao.png, id=20, 1244.65pt x 255.95625pt>
+<querries_images/modulo_5_operacoes_basicas_e_agregacao.png, id=21, 1244.65pt x 255.95625pt>
 File: querries_images/modulo_5_operacoes_basicas_e_agregacao.png Graphic file (type png)
 <use querries_images/modulo_5_operacoes_basicas_e_agregacao.png>
-Package pdftex.def Info: querries_images/modulo_5_operacoes_basicas_e_agregacao.png  used on input line 104.
+Package pdftex.def Info: querries_images/modulo_5_operacoes_basicas_e_agregacao.png  used on input line 105.
 (pdftex.def)             Requested size: 345.00513pt x 70.94862pt.
  [3
 
  <./querries_images/modulo_5_operacoes_basicas_e_agregacao.png>] (./querries/modulo_6_ agrupamentos.sql)
-<querries_images/modulo_6_ agrupamentos.png, id=25, 1244.65pt x 508.90125pt>
+<querries_images/modulo_6_ agrupamentos.png, id=26, 1244.65pt x 508.90125pt>
 File: querries_images/modulo_6_ agrupamentos.png Graphic file (type png)
 <use querries_images/modulo_6_ agrupamentos.png>
-Package pdftex.def Info: querries_images/modulo_6_ agrupamentos.png  used on input line 126.
+Package pdftex.def Info: querries_images/modulo_6_ agrupamentos.png  used on input line 127.
 (pdftex.def)             Requested size: 345.00513pt x 141.06258pt.
  [4
 
@@ -273,81 +278,81 @@ Package pdftex.def Info: querries_images/modulo_6_ agrupamentos.png  used on inp
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <5> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 5.
 )
-<querries_images/modulo_7_variaveis_e_cast.png, id=30, 1244.65pt x 930.47626pt>
+<querries_images/modulo_7_variaveis_e_cast.png, id=31, 1244.65pt x 930.47626pt>
 File: querries_images/modulo_7_variaveis_e_cast.png Graphic file (type png)
 <use querries_images/modulo_7_variaveis_e_cast.png>
-Package pdftex.def Info: querries_images/modulo_7_variaveis_e_cast.png  used on input line 149.
+Package pdftex.def Info: querries_images/modulo_7_variaveis_e_cast.png  used on input line 150.
 (pdftex.def)             Requested size: 294.27802pt x 219.99655pt.
  [5
 
  <./querries_images/modulo_7_variaveis_e_cast.png>] (./querries/modulo_8_funcoes_de_texto_e_data.sql)
-<querries_images/modulo_8_funcoes_de_texto_e_data.png, id=36, 1646.15pt x 930.47626pt>
+<querries_images/modulo_8_funcoes_de_texto_e_data.png, id=37, 1646.15pt x 930.47626pt>
 File: querries_images/modulo_8_funcoes_de_texto_e_data.png Graphic file (type png)
 <use querries_images/modulo_8_funcoes_de_texto_e_data.png>
-Package pdftex.def Info: querries_images/modulo_8_funcoes_de_texto_e_data.png  used on input line 172.
+Package pdftex.def Info: querries_images/modulo_8_funcoes_de_texto_e_data.png  used on input line 173.
 (pdftex.def)             Requested size: 243.24458pt x 137.49252pt.
  [6
 
  <./querries_images/modulo_8_funcoes_de_texto_e_data.png>] (./querries/modulo_9_joins_e_relacionamentos.sql)
-<querries_images/modulo_9_joins_e_relacionamentos.png, id=41, 1244.65pt x 508.90125pt>
+<querries_images/modulo_9_joins_e_relacionamentos.png, id=42, 1244.65pt x 508.90125pt>
 File: querries_images/modulo_9_joins_e_relacionamentos.png Graphic file (type png)
 <use querries_images/modulo_9_joins_e_relacionamentos.png>
-Package pdftex.def Info: querries_images/modulo_9_joins_e_relacionamentos.png  used on input line 194.
+Package pdftex.def Info: querries_images/modulo_9_joins_e_relacionamentos.png  used on input line 195.
 (pdftex.def)             Requested size: 345.00513pt x 141.06258pt.
  [7
 
  <./querries_images/modulo_9_joins_e_relacionamentos.png>] (./querries/modulo_10_funcao_condicionais.sql)
-<querries_images/modulo_10_funcao_condicionais.png, id=47, 1244.65pt x 508.90125pt>
+<querries_images/modulo_10_funcao_condicionais.png, id=48, 1244.65pt x 508.90125pt>
 File: querries_images/modulo_10_funcao_condicionais.png Graphic file (type png)
 <use querries_images/modulo_10_funcao_condicionais.png>
-Package pdftex.def Info: querries_images/modulo_10_funcao_condicionais.png  used on input line 217.
+Package pdftex.def Info: querries_images/modulo_10_funcao_condicionais.png  used on input line 218.
 (pdftex.def)             Requested size: 345.00513pt x 141.06258pt.
  [8
 
  <./querries_images/modulo_10_funcao_condicionais.png>] (./querries/modulo_11_views.sql) (./querries/modulo_11_views_mostrar.sql)
-<querries_images/modulo_11_views_mostrar.png, id=52, 1244.65pt x 1352.05125pt>
+<querries_images/modulo_11_views_mostrar.png, id=53, 1244.65pt x 1352.05125pt>
 File: querries_images/modulo_11_views_mostrar.png Graphic file (type png)
 <use querries_images/modulo_11_views_mostrar.png>
-Package pdftex.def Info: querries_images/modulo_11_views_mostrar.png  used on input line 247.
+Package pdftex.def Info: querries_images/modulo_11_views_mostrar.png  used on input line 248.
 (pdftex.def)             Requested size: 202.50961pt x 219.98424pt.
  [9
 
  <./querries_images/modulo_11_views_mostrar.png>] (./querries/modulo_12_crud_ddl_dml.sql) (./querries/modulo_12_crud_ddl_dml_mostrar.sql)
-<querries_images/modulo_12_crud_ddl_dml_mostrar.png, id=57, 1244.65pt x 972.63374pt>
+<querries_images/modulo_12_crud_ddl_dml_mostrar.png, id=58, 1244.65pt x 972.63374pt>
 File: querries_images/modulo_12_crud_ddl_dml_mostrar.png Graphic file (type png)
 <use querries_images/modulo_12_crud_ddl_dml_mostrar.png>
-Package pdftex.def Info: querries_images/modulo_12_crud_ddl_dml_mostrar.png  used on input line 277.
+Package pdftex.def Info: querries_images/modulo_12_crud_ddl_dml_mostrar.png  used on input line 278.
 (pdftex.def)             Requested size: 281.51552pt x 219.99075pt.
  [10
 
  <./querries_images/modulo_12_crud_ddl_dml_mostrar.png>] (./querries/modulo_13_functions.sql)
-<querries_images/modulo_13_functions.png, id=62, 1244.65pt x 930.47626pt>
+<querries_images/modulo_13_functions.png, id=63, 1244.65pt x 930.47626pt>
 File: querries_images/modulo_13_functions.png Graphic file (type png)
 <use querries_images/modulo_13_functions.png>
-Package pdftex.def Info: querries_images/modulo_13_functions.png  used on input line 300.
+Package pdftex.def Info: querries_images/modulo_13_functions.png  used on input line 301.
 (pdftex.def)             Requested size: 345.00513pt x 257.91916pt.
  (./querries/modulo_13_procedures.sql [11
 
  <./querries_images/modulo_13_functions.png>])
-<querries_images/modulo_13_procedures.png, id=67, 1244.65pt x 255.95625pt>
+<querries_images/modulo_13_procedures.png, id=68, 1244.65pt x 255.95625pt>
 File: querries_images/modulo_13_procedures.png Graphic file (type png)
 <use querries_images/modulo_13_procedures.png>
-Package pdftex.def Info: querries_images/modulo_13_procedures.png  used on input line 318.
+Package pdftex.def Info: querries_images/modulo_13_procedures.png  used on input line 319.
 (pdftex.def)             Requested size: 345.00513pt x 70.94862pt.
  [12 <./querries_images/modulo_13_procedures.png>] (build/querries.aux) ) 
 Here is how much of TeX's memory you used:
  8386 strings out of 480247
- 149928 string characters out of 5896151
+ 149967 string characters out of 5896151
  762299 words of memory out of 5000000
  26182 multiletter control sequences out of 15000+600000
  478303 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 68i,6n,77p,376b,1845s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
-Output written on build/querries.pdf (12 pages, 1184547 bytes).
+ 68i,7n,77p,389b,1845s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt0900.pfb>
+Output written on build/querries.pdf (12 pages, 1205419 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
