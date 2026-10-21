@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.7.28)  21 OCT 2026 04:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2026.7.28)  21 OCT 2026 04:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -266,15 +266,15 @@ Package pdftex.def Info: querries_images/modulo_5_operacoes_basicas_e_agregacao.
 (pdftex.def)             Requested size: 345.00513pt x 70.94862pt.
  [3
 
- <./querries_images/modulo_5_operacoes_basicas_e_agregacao.png>] (./querries/modulo_6_ agrupamentos.sql)
-<querries_images/modulo_6_ agrupamentos.png, id=26, 1244.65pt x 508.90125pt>
-File: querries_images/modulo_6_ agrupamentos.png Graphic file (type png)
-<use querries_images/modulo_6_ agrupamentos.png>
-Package pdftex.def Info: querries_images/modulo_6_ agrupamentos.png  used on input line 127.
+ <./querries_images/modulo_5_operacoes_basicas_e_agregacao.png>] (./querries/modulo_6_agrupamentos.sql)
+<querries_images/modulo_6_agrupamentos.png, id=26, 1244.65pt x 508.90125pt>
+File: querries_images/modulo_6_agrupamentos.png Graphic file (type png)
+<use querries_images/modulo_6_agrupamentos.png>
+Package pdftex.def Info: querries_images/modulo_6_agrupamentos.png  used on input line 127.
 (pdftex.def)             Requested size: 345.00513pt x 141.06258pt.
  [4
 
- <./querries_images/modulo_6_ agrupamentos.png>] (./querries/modulo_7_variaveis_e_cast.sql
+ <./querries_images/modulo_6_agrupamentos.png>] (./querries/modulo_7_variaveis_e_cast.sql
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <5> not available
 (Font)              Font shape `T1/cmtt/m/n' tried instead on input line 5.
 )
@@ -342,7 +342,7 @@ Package pdftex.def Info: querries_images/modulo_13_procedures.png  used on input
  [12 <./querries_images/modulo_13_procedures.png>] (build/querries.aux) ) 
 Here is how much of TeX's memory you used:
  8386 strings out of 480247
- 149967 string characters out of 5896151
+ 149954 string characters out of 5896151
  762299 words of memory out of 5000000
  26182 multiletter control sequences out of 15000+600000
  478303 words of font info for 47 fonts, out of 8000000 for 9000
