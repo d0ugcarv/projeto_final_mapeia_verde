@@ -12,6 +12,7 @@ Desenvolver um banco de dados para gerenciar informações sobre árvores, levan
 - MySQL Workbench
 - SQL
 - Python para geração de dados de teste
+- Git
 
 ## Funcionalidades
 
