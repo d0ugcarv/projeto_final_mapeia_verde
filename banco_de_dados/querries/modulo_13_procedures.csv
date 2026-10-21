@@ -1,0 +1,5 @@
+cliente,contrato_id,projeto_id,projeto,data_inicio,data_fim
+"Prefeitura do Rio",1,1,"Arborização do Centro",2026-01-15,2026-05-30
+"Prefeitura do Rio",1,2,"Corredores Verdes Urbanos",2026-06-01,2026-12-15
+"Prefeitura do Rio",2,3,"Praças Sustentáveis",2026-06-10,2026-11-20
+"Prefeitura do Rio",1,27,"Inventário de Árvores Viárias",2026-02-01,2026-04-30

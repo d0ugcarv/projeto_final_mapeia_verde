@@ -1,0 +1,11 @@
+arvore_id,data,estado_saude,cobertura_sombra,recomendacao,classificacao_sombra,observacoes
+1,2025-05-15,Saudável,29.97,"Condição adequada","Sombra reduzida","Monitoramento fictício #3001; árvore 1"
+1,2026-08-24,Regular,25.23,Acompanhar,"Sombra reduzida","Monitoramento fictício #1; árvore 1"
+2,2025-03-22,Ruim,68.51,"Necessita intervenção","Sombra elevada","Monitoramento fictício #2; árvore 2"
+2,2027-02-26,Saudável,62.07,"Condição adequada","Sombra elevada","Monitoramento fictício #3002; árvore 2"
+3,2025-10-12,Regular,53.58,Acompanhar,"Sombra elevada","Monitoramento fictício #3003; árvore 3"
+3,2027-04-07,Crítico,48.12,"Ação urgente","Sombra reduzida","Monitoramento fictício #3; árvore 3"
+4,2026-02-02,Saudável,55.44,"Condição adequada","Sombra elevada","Monitoramento fictício #3004; árvore 4"
+4,2026-05-29,Ruim,53.46,"Necessita intervenção","Sombra elevada","Monitoramento fictício #4; árvore 4"
+5,2025-12-16,Regular,57.81,Acompanhar,"Sombra elevada","Monitoramento fictício #5; árvore 5"
+5,2027-04-16,Ruim,54.76,"Necessita intervenção","Sombra elevada","Monitoramento fictício #3005; árvore 5"

@@ -1,0 +1,227 @@
+\documentclass{article}
+% Made by Christopher Kaba
+% Adapted from Florian Minges' adaptation of Alejandro Ochoa's Grant Model Canvas:
+% https://github.com/OchoaLab/grantModelCanvas
+
+% His notes regarding inspiration for the code:
+%       adapted "business" version from latex code:
+%       https://rememberthecmd.blogspot.com/2015/02/draw-business-model-generation-canvas.html
+%       and the "grant" version (not latex):
+%       https://gregglab.neuro.utah.edu/2018/10/30/the-grant-model-canvas-for-developing-great-grants/
+
+
+% Business Canvas:
+% https://digital.sebraers.com.br/blog/estrategia/business-model-canvas-como-construir-seu-modelo-de-negocio/
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% DOCUMENT START %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[landscape,margin=0in]{geometry}
+%\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\pagenumbering{gobble} % supress page numbers
+\usepackage{hyperref}
+% Sans-serif fonts
+\renewcommand{\rmdefault}{phv}
+\renewcommand{\sfdefault}{phv} 
+
+\usepackage{tikz}
+
+
+\title{\vspace{-2em}Business Model Canvas — Mapeia Verde}
+\date{}
+\author{Douglas C. de Carvalho}
+
+\begin{document}
+\maketitle
+
+\vspace{-1em}
+\centering
+\def\layersep{9.7em}
+\def\layerwidth{75em}
+
+\makebox[\textwidth][c]{
+    \begin{tikzpicture}[
+        % Define block parameters (mostly shape)
+        bloc/.style={
+            rectangle, rounded corners,
+            draw=black!30, very thick, inner sep=0,
+        },
+        invisible/.style={
+            rectangle, draw=none,
+            inner sep=0,
+        },
+        bloc1/.style={
+            bloc,
+            text width = \layerwidth/5*0.95,
+            minimum width = \layerwidth/5,
+            minimum height= 4*\layersep
+        },
+        bloc2/.style={
+            bloc,
+            text width = \layerwidth/5*0.95,
+            minimum width=\layerwidth/5,
+            minimum height=2*\layersep
+        },
+        bloc3/.style={
+            bloc,
+            text width=\layerwidth/2*0.95,
+            minimum width=\layerwidth/2,
+            minimum height=\layersep
+        },
+        invisible_bloc1/.style={
+            invisible,
+            text width=\layerwidth/5*0.95,
+            minimum width=\layerwidth/5,
+            minimum height=\layersep
+        },
+        invisible_bloc2/.style={
+            invisible,
+            text width=\layerwidth/5*0.95,
+            minimum width=\layerwidth/5,
+            minimum height=3*\layersep
+        },
+        title/.style={
+            anchor=north west,
+            color=black!50,
+            font=\bfseries
+        },
+        subtitle/.style={
+            anchor=north west,
+            color=black!50,
+            font=\bfseries
+        },
+    ]
+    
+    %%%%%%%%%%%%%%%%%%%%%%%%%
+    %%%% DRAW THE CANVAS %%%%
+    %%%%%%%%%%%%%%%%%%%%%%%%%
+
+    % first the block, then the title
+
+
+    % 1. CUSTOMER SEGMENTS
+    \node[invisible_bloc2] (b111) at (8*\layerwidth/10,4.45*\layersep) {
+        Órgãos públicos municipais e estaduais; prefeituras 
+        e secretarias ligadas a meio ambiente, urbanismo e 
+        planejamento; empresas privadas; consultorias 
+        ambientais e urbanísticas; organizações que 
+        necessitam de dados sobre arborização e ambiente 
+        urbano.
+    };
+
+    \node[bloc1] (b11) at (8*\layerwidth/10,4*\layersep) {};
+    \node[title] at (b11.north west) {\underline{1. Customer Segments}};
+
+
+
+    % 2. VALUE PROPOSITIONS  
+    \node[invisible_bloc2] (b81) at (4*\layerwidth/10,4.45*\layersep) {
+        Fornecer dados precisos, atualizados e 
+        georreferenciados sobre árvores urbanas para apoiar 
+        decisões de planejamento, manutenção e expansão da 
+        arborização. A Mapeia Verde transforma levantamentos 
+        de campo em mapas e relatórios claros, permitindo 
+        identificar áreas prioritárias para plantio, 
+        preservação, manejo e redução de calor urbano.
+    };
+
+    \node[bloc1] (b8) at (4*\layerwidth/10,4*\layersep) {};
+    \node[title] at (b8.north west) {\underline{2.Value Propositions}};
+
+
+    % 3. CHANNELS
+    \node[bloc2] (b10) at (6*\layerwidth/10,3*\layersep) {
+        Prospecção comercial direta; relacionamento 
+        institucional com órgãos públicos; apresentações e 
+        demonstrações comerciais; site e redes sociais; 
+        produção de conteúdo técnico; participação em 
+        eventos relacionados a meio ambiente, urbanismo e 
+        tecnologia; parcerias com consultorias e empresas 
+        do setor.
+    };
+    \node[title] at (b10.north west) {\underline{3. Channels}};
+
+
+    % 4. CUSTOMER RELATIONSHIP
+    \node[bloc2] (b9) at (6*\layerwidth/10,5*\layersep) {
+        Atendimento consultivo e personalizado; 
+        acompanhamento técnico dos projetos; relatórios 
+        periódicos; contratos de monitoramento recorrente; 
+        suporte na interpretação dos dados; relacionamento 
+        de longo prazo com clientes públicos e privados.
+    };
+    \node[title] at (b9.north west) {\underline{4. Customer Relationships}};
+    
+
+    
+    % 5. REVENUE STREAMS
+    \node[bloc3] (b5) at (6.5*\layerwidth/10,1.5*\layersep) {
+        Contratos de mapeamento por projeto; vistorias 
+        técnicas; monitoramento recorrente de árvores; 
+        assinaturas para atualização periódica de dados; 
+        produção de mapas e relatórios; estudos e 
+        diagnósticos específicos; suporte técnico para 
+        projetos de arborização e mitigação de calor.
+    };
+    \node[title] at (b5.north west) {\underline{5. Revenue Streams}};
+
+
+     % 6. KEY RESOURCES
+    \node[bloc2] (b3) at (2*\layerwidth/10,3*\layersep) {
+        Equipe técnica especializada; profissionais de 
+        campo; equipamentos para coleta de dados; sistemas 
+        de georreferenciamento e análise espacial; banco de 
+        dados de árvores urbanas; ferramentas de 
+        processamento e análise; conhecimento técnico em 
+        arborização, ambiente urbano e conforto térmico; 
+        marca e relacionamento institucional.
+    };
+    \node[title] at (b3.north west) {\underline{6. Key Resources}};
+
+
+    % 7. KEY ACTIVITIES
+    \node[bloc2] (b2) at (2*\layerwidth/10,5*\layersep) {
+        Levantamento e mapeamento de árvores; vistorias 
+        técnicas; coleta e organização de dados 
+        georreferenciados; monitoramento periódico; 
+        análise de cobertura arbórea; elaboração de mapas 
+        e relatórios; manutenção e atualização das bases de 
+        dados; prospecção comercial; produção de conteúdo 
+        técnico; relacionamento com clientes e parceiros.
+    };
+    \node[title] at (b2.north west) {\underline{7. Key Activities}};
+
+
+    % 8. KEY PARTNERS
+    \node[invisible_bloc2] (b11) at (0*\layerwidth/10,4.45*\layersep) {
+        Prefeituras e órgãos públicos; consultorias 
+        ambientais e urbanísticas; universidades e 
+        instituições de pesquisa; empresas de tecnologia e 
+        geoprocessamento; profissionais e fornecedores 
+        especializados em arborização; organizações voltadas
+        à sustentabilidade e adaptação climática.
+    };
+    
+    \node[bloc1] (b1) at (0*\layerwidth/10,4*\layersep) {};
+    \node[title] at (b1.north west) {\underline{8. Key Partners}};
+   
+
+    % 9. COST STRUCTURE
+    \node[bloc3] (b4) at (1.5*\layerwidth/10,1.5*\layersep) {
+        Custos com equipe técnica e de campo; equipamentos 
+        e deslocamentos; softwares e infraestrutura de 
+        geoprocessamento; armazenamento e processamento de 
+        dados; manutenção de equipamentos; marketing e 
+        prospecção comercial; custos administrativos; 
+        desenvolvimento e manutenção de sistemas e bases 
+        de dados.
+    };
+    \node[title] at (b4.north west) {\underline{9. Cost Structure}}; 
+
+
+  \end{tikzpicture}
+}
+\end{document}

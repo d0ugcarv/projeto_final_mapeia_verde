@@ -1,0 +1,21 @@
+contrato_id,identificacao_contrato,inicio_nome_cliente,posicao_palavra_verde,nome_modificado,data_inicio,data_fim,duracao_dias,data_revisao,revisao_anual
+18,"Paisagem Viva Ltda - Pontual","Paisagem V",0,"Paisagem Viva Ltda",2025-01-15,2025-07-15,181,2025-02-14,2026-01-15
+8,"Instituto Arvoredo - Pontual","Instituto ",0,"Instituto Arvoredo",2025-02-01,2025-08-01,181,2025-03-03,2026-02-01
+12,"Prefeitura de Niterói - Recorrente",Prefeitura,0,"Município de Niterói",2025-03-01,2025-12-31,305,2025-03-31,2026-03-01
+20,"Prefeitura de São Gonçalo - Recorrente",Prefeitura,0,"Município de São Gonçalo",2025-04-01,2025-12-31,274,2025-05-01,2026-04-01
+14,"Floresta Consultoria - Pontual","Floresta C",0,"Floresta Consultoria",2025-06-01,2025-11-30,182,2025-07-01,2026-06-01
+11,"Prefeitura de Niterói - Recorrente",Prefeitura,0,"Município de Niterói",2026-01-05,2026-12-31,360,2026-02-04,2027-01-05
+1,"Prefeitura do Rio - Recorrente",Prefeitura,0,"Município do Rio",2026-01-10,2026-12-31,355,2026-02-09,2027-01-10
+19,"Prefeitura de São Gonçalo - Monitoramento",Prefeitura,0,"Município de São Gonçalo",2026-01-15,NULL,278,2026-02-14,2027-01-15
+7,"Instituto Arvoredo - Recorrente","Instituto ",0,"Instituto Arvoredo",2026-01-20,2026-10-20,273,2026-02-19,2027-01-20
+3,"Verde Urbano Ltda - Pontual","Verde Urba",1,"Verde Urbano Ltda",2026-02-01,2026-07-31,180,2026-03-03,2027-02-01
+15,"Instituto Cidade Verde - Pontual","Instituto ",18,"Instituto Cidade Verde",2026-02-15,2026-08-15,181,2026-03-17,2027-02-15
+17,"Paisagem Viva Ltda - Recorrente","Paisagem V",0,"Paisagem Viva Ltda",2026-03-01,2027-02-28,364,2026-03-31,2027-03-01
+5,"Eco Consultoria - Monitoramento","Eco Consul",0,"Eco Consultoria",2026-03-15,NULL,219,2026-04-14,2027-03-15
+9,"Jardins Sustentáveis - Pontual","Jardins Su",0,"Jardins Sustentáveis",2026-04-01,2026-09-30,182,2026-05-01,2027-04-01
+13,"Floresta Consultoria - Monitoramento","Floresta C",0,"Floresta Consultoria",2026-05-10,NULL,163,2026-06-09,2027-05-10
+2,"Prefeitura do Rio - Pontual",Prefeitura,0,"Município do Rio",2026-06-01,2026-11-30,182,2026-07-01,2027-06-01
+6,"Eco Consultoria - Recorrente","Eco Consul",0,"Eco Consultoria",2026-07-01,2027-06-30,364,2026-07-31,2027-07-01
+4,"Verde Urbano Ltda - Monitoramento","Verde Urba",1,"Verde Urbano Ltda",2026-08-01,NULL,80,2026-08-31,2027-08-01
+16,"Instituto Cidade Verde - Monitoramento","Instituto ",18,"Instituto Cidade Verde",2026-09-01,NULL,49,2026-10-01,2027-09-01
+10,"Jardins Sustentáveis - Monitoramento","Jardins Su",0,"Jardins Sustentáveis",2026-10-01,NULL,19,2026-10-31,2027-10-01

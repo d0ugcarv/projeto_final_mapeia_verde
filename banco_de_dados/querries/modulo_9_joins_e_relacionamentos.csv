@@ -1,0 +1,11 @@
+projeto_id,projeto,contrato_id,cliente,data_inicio,data_fim,area
+1,"Arborização do Centro",1,"Prefeitura do Rio",2026-01-15,2026-05-30,"Centro, Rio de Janeiro"
+2,"Corredores Verdes Urbanos",1,"Prefeitura do Rio",2026-06-01,2026-12-15,"Zona Norte, Rio de Janeiro"
+3,"Praças Sustentáveis",2,"Prefeitura do Rio",2026-06-10,2026-11-20,"Zona Sul, Rio de Janeiro"
+4,"Árvores da Tijuca",3,"Verde Urbano Ltda",2026-02-05,2026-04-30,"Tijuca, Rio de Janeiro"
+5,"Mapeamento de Sombra",3,"Verde Urbano Ltda",2026-05-01,2026-07-20,"Maracanã, Rio de Janeiro"
+6,"Monitoramento de Parques",4,"Verde Urbano Ltda",2026-08-05,2026-12-15,"Barra da Tijuca, Rio de Janeiro"
+7,"Inventário Arbóreo Metropolitano",5,"Eco Consultoria",2026-03-20,2026-08-30,"Região Metropolitana do Rio"
+8,"Árvores e Clima",5,"Eco Consultoria",2026-09-01,2027-02-28,"Rio de Janeiro"
+9,"Monitoramento de Áreas Verdes",6,"Eco Consultoria",2026-07-05,2026-12-20,"Niterói, RJ"
+10,"Requalificação Verde",7,"Instituto Arvoredo",2026-01-25,2026-06-30,"Flamengo, Rio de Janeiro"

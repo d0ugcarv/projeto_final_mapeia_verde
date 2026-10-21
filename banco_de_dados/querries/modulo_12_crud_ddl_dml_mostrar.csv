@@ -1,0 +1,22 @@
+contrato_id,cliente,valor,tipo,status
+19,"Prefeitura de São Gonçalo",54000.00,Monitoramento,Ativo
+20,"Prefeitura de São Gonçalo",39000.00,Recorrente,Inativo
+NULL,"Eco Rio Projetos",NULL,NULL,NULL
+1,"Prefeitura do Rio",85000.00,Recorrente,Ativo
+2,"Prefeitura do Rio",22000.00,Pontual,Ativo
+3,"Verde Urbano Ltda",18500.00,Pontual,Inativo
+4,"Verde Urbano Ltda",27000.00,Monitoramento,Ativo
+5,"Eco Consultoria",32000.00,Monitoramento,Ativo
+6,"Eco Consultoria",41000.00,Recorrente,Ativo
+7,"Instituto Arvoredo",24000.00,Recorrente,Ativo
+8,"Instituto Arvoredo",15000.00,Pontual,Inativo
+9,"Jardins Sustentáveis",12500.00,Pontual,Inativo
+10,"Jardins Sustentáveis",30000.00,Monitoramento,Ativo
+11,"Prefeitura de Niterói",67000.00,Recorrente,Ativo
+12,"Prefeitura de Niterói",48000.00,Recorrente,Inativo
+13,"Floresta Consultoria",28000.00,Monitoramento,Ativo
+14,"Floresta Consultoria",17500.00,Pontual,Inativo
+15,"Instituto Cidade Verde",19500.00,Pontual,Inativo
+16,"Instituto Cidade Verde",26000.00,Monitoramento,Ativo
+17,"Paisagem Viva Ltda",36000.00,Recorrente,Ativo
+18,"Paisagem Viva Ltda",21000.00,Pontual,Inativo

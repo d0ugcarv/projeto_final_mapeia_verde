@@ -1,0 +1,31 @@
+projeto_id,projeto,cliente,tipo_contrato,valor_contrato,data_inicio,data_fim,total_relatorios
+1,"Arborização do Centro","Prefeitura do Rio",Recorrente,85000.00,2026-01-15,2026-05-30,4
+2,"Corredores Verdes Urbanos","Prefeitura do Rio",Recorrente,85000.00,2026-06-01,2026-12-15,4
+3,"Praças Sustentáveis","Prefeitura do Rio",Pontual,22000.00,2026-06-10,2026-11-20,4
+4,"Árvores da Tijuca","Verde Urbano Ltda",Pontual,18500.00,2026-02-05,2026-04-30,4
+5,"Mapeamento de Sombra","Verde Urbano Ltda",Pontual,18500.00,2026-05-01,2026-07-20,4
+6,"Monitoramento de Parques","Verde Urbano Ltda",Monitoramento,27000.00,2026-08-05,2026-12-15,4
+7,"Inventário Arbóreo Metropolitano","Eco Consultoria",Monitoramento,32000.00,2026-03-20,2026-08-30,4
+8,"Árvores e Clima","Eco Consultoria",Monitoramento,32000.00,2026-09-01,2027-02-28,4
+9,"Monitoramento de Áreas Verdes","Eco Consultoria",Recorrente,41000.00,2026-07-05,2026-12-20,4
+10,"Requalificação Verde","Instituto Arvoredo",Recorrente,24000.00,2026-01-25,2026-06-30,4
+11,"Árvores Históricas","Instituto Arvoredo",Pontual,15000.00,2025-02-05,2025-07-25,3
+12,"Jardins Urbanos","Jardins Sustentáveis",Pontual,12500.00,2026-04-05,2026-08-25,3
+13,"Saúde da Arborização","Jardins Sustentáveis",Monitoramento,30000.00,2026-10-05,2027-03-30,3
+14,"Arborização de Niterói","Prefeitura de Niterói",Recorrente,67000.00,2026-01-10,2026-06-30,3
+15,"Sombra nas Escolas","Prefeitura de Niterói",Recorrente,67000.00,2026-07-01,2026-12-20,3
+16,"Praças de Niterói","Prefeitura de Niterói",Recorrente,48000.00,2025-03-05,2025-11-30,3
+17,"Monitoramento Florestal Urbano","Floresta Consultoria",Monitoramento,28000.00,2026-05-15,2026-10-30,3
+18,"Inventário de Espécies","Floresta Consultoria",Pontual,17500.00,2025-06-05,2025-11-20,3
+19,"Cidade Verde","Instituto Cidade Verde",Pontual,19500.00,2026-02-20,2026-07-30,3
+20,"Redução de Ilhas de Calor","Instituto Cidade Verde",Monitoramento,26000.00,2026-09-05,2027-02-28,3
+21,"Paisagismo Sustentável","Paisagem Viva Ltda",Recorrente,36000.00,2026-03-05,2026-08-30,3
+22,"Corredores de Biodiversidade","Paisagem Viva Ltda",Recorrente,36000.00,2026-09-01,2027-02-20,3
+23,"Diagnóstico de Jardins","Paisagem Viva Ltda",Pontual,21000.00,2025-01-20,2025-07-10,3
+24,"Arborização de São Gonçalo","Prefeitura de São Gonçalo",Monitoramento,54000.00,2026-01-20,2026-06-30,3
+25,"Monitoramento de Praças","Prefeitura de São Gonçalo",Monitoramento,54000.00,2026-07-01,2026-12-15,3
+26,"Sombreamento Urbano","Prefeitura de São Gonçalo",Recorrente,39000.00,2025-04-05,2025-11-30,3
+27,"Inventário de Árvores Viárias","Prefeitura do Rio",Recorrente,85000.00,2026-02-01,2026-04-30,3
+28,"Diagnóstico de Áreas Críticas","Eco Consultoria",Monitoramento,32000.00,2026-04-01,2026-07-31,3
+29,"Gestão de Árvores de Risco","Prefeitura de Niterói",Recorrente,67000.00,2026-02-01,2026-05-31,3
+30,"Plano de Expansão Verde","Prefeitura de São Gonçalo",Monitoramento,54000.00,2026-03-01,2026-09-30,3
